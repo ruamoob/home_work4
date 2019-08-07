@@ -1,0 +1,14 @@
+C:\C#\Moon\Moon\Moon\obj\Debug\Moon.csprojAssemblyReference.cache
+C:\C#\Moon\Moon\Moon\obj\Debug\Moon.csproj.CoreCompileInputs.cache
+C:\C#\Moon\Moon\Moon\bin\Debug\Moon.exe.config
+C:\C#\Moon\Moon\Moon\bin\Debug\Moon.exe
+C:\C#\Moon\Moon\Moon\bin\Debug\Moon.pdb
+C:\C#\Moon\Moon\Moon\obj\Debug\Moon.exe
+C:\C#\Moon\Moon\Moon\obj\Debug\Moon.pdb
+C:\C#\Moon\Moon\bin\Debug\Moon.exe.config
+C:\C#\Moon\Moon\bin\Debug\Moon.exe
+C:\C#\Moon\Moon\bin\Debug\Moon.pdb
+C:\C#\Moon\Moon\obj\Debug\Moon.csprojAssemblyReference.cache
+C:\C#\Moon\Moon\obj\Debug\Moon.csproj.CoreCompileInputs.cache
+C:\C#\Moon\Moon\obj\Debug\Moon.exe
+C:\C#\Moon\Moon\obj\Debug\Moon.pdb
